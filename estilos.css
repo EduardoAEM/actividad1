@@ -1,0 +1,25 @@
+#color2{
+    background: rgb(61, 59, 59);
+}
+
+
+#margen{
+    margin-left: 10%;
+    margin-right: 5%;
+    background: rgb(47, 255, 255);
+}
+#margen2{
+    margin-left: 10%;
+    margin-right: 5%;
+    background: rgb(255, 251, 0);
+}
+p{
+    margin: 0%  ;   
+    text-align: center;
+    margin-right: 10%;
+    margin-left: 10%;
+    
+}
+h1{
+    align-items: center;
+}
