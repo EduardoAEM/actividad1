@@ -4,7 +4,7 @@
 
 
 #margen{
-    margin-left: 10%;
+    margin: 0% 10% 0% 10%;
     margin-right: 5%;
     background: rgb(47, 255, 255);
 }
@@ -13,13 +13,60 @@
     margin-right: 5%;
     background: rgb(255, 251, 0);
 }
-p{
-    margin: 0%  ;   
-    text-align: center;
-    margin-right: 10%;
-    margin-left: 10%;
+
+
+
+a{
+    color: aliceblue;
+}
+
+#menu{
+    padding-top: 2%;
+    float: left;
+  
+}
+
+#relleno{
+    padding-top: 1%;
+    
+    margin: 0% 0% 0% 20%;
+    background: aqua;
+    border: 1px solid aqua;
+    width: 80%;
+}
+
+#relleno2{
+    margin: 0% 0% 0% 20%;
+    background: rgb(218, 231, 33);   
+    padding-top: 1%;
+    border: 1px solid  rgb(218, 231, 33);
+    width: 80%;
+}
+
+#relleno3{
+    margin: 0% 0% 0% 20%;
+    background: orange;   
+    padding-top: 1%;
+    border: 1px solid  orange;
+    width: 80%;
     
 }
-h1{
-    align-items: center;
+
+#relleno4{
+    margin: 0% 0% 0% 20%;
+    background: red;   
+    padding-top: 1%;
+    border: 1px solid red; 
+    width: 80%;
+}
+a:hover{
+color:rgb(150, 139, 131);
+cursor: pointer;
+}
+#rellenoTitulo{
+    
+    background: red;   
+    border: 1px solid red; 
+    width: 100%;
+
 }
