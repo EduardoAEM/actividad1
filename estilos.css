@@ -1,6 +1,11 @@
 #color2{
     background: rgb(61, 59, 59);
+    
 }
+#margenBoot{
+    margin: 0% 0% 0% 88%;
+}
+
 
 
 #margen{
@@ -15,6 +20,7 @@
 }
 
 
+
 a{
     color: aliceblue;
 }
@@ -27,12 +33,13 @@ a{
 
 #relleno{
     padding-top: 1%;
-    
+    font-family: 'Trebuchet MS',verdana,arial,hel;
     margin: 0% 0% 0% 15%;
     background: aqua;
     border: 1px solid aqua;
     width: 80%;
     line-height : 25%;
+    
 }
 
 #relleno2{
@@ -74,3 +81,5 @@ cursor: pointer;
     width: 100%;
 
 }
+
+
