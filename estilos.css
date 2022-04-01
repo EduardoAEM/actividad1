@@ -1,17 +1,29 @@
 #color2{
-    background: rgb(61, 59, 59);
+    background: orange;
     
 }
-#margenBoot{
-    margin: 0% 0% 0% 88%;
+.box {
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+    width: 1100px;
+  }
+  .box2{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1400px;
+  }
+      
+#margenGaleria{
+    margin-left: 1%;
+    margin-right: 1%;
 }
-
 
 
 #margen{
-    margin: 0% 10% 0% 10%;
-    margin-right: 5%;
-    background: rgb(47, 255, 255);
+    margin-top: 5%;
+    margin-bottom: 2%;
 }
 #margen2{
     margin-left: 10%;
@@ -19,6 +31,10 @@
     background: rgb(255, 251, 0);
 }
 
+.colorTexto{
+ color: brown;
+ text-align: center;
+}
 
 
 a{
@@ -80,6 +96,10 @@ cursor: pointer;
     border: 1px solid red; 
     width: 100%;
 
+}
+
+#galeria{
+    float: left;
 }
 
 
